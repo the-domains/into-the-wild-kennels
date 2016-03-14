@@ -1,0 +1,28 @@
+name: Into the Wild Kennels
+favicon: null
+layout_spectrum: 0.9599541088100523
+typography_spectrum: 0.96201556106098
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.22532751713879406
+  lightness: 0.9021517536602914
+  saturation: 0.7432896518148482
+  rhythmicContrast: 0.6971599678508937
+purpose: []
