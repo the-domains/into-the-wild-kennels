@@ -2,15 +2,22 @@
     <channel>
         <title><![CDATA[Into the Wild Kennels]]></title>
         <description><![CDATA[Into the Wild Kennels]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.intothewildkennels.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Mar 2016 03:42:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 14 Mar 2016 04:04:29 GMT</lastBuildDate>
+        <atom:link href="http://www.intothewildkennels.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefinedde0afb25-3f2d-46a8-b97c-3fd0dd7a23cb/index.html</link>
+            <link>http://www.intothewildkennels.com/0478531d-8d30-4646-942d-7bc71323f95f/index.html</link>
+            <guid isPermaLink="false">0478531d-8d30-4646-942d-7bc71323f95f</guid>
+            <pubDate>Mon, 14 Mar 2016 04:04:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wednesday, November 5, 2014]]></title>
+            <description><![CDATA[<article><h1>Wednesday, November 5, 2014</h1><p>I have a goal.  I want to develop a wilderness survival dog.  What does this mean?  I’m not entirely sure yet.  I have some experience with wilderness survival but I am not yet an expert.  I can think of a few pros to having a dog around in a wilderness survival scenario.  The dog could potentially drive off predators, find food, provide warmth on cold nights, etc.  However, there are also many cons to consider.  The dog is another mouth to feed, it may scare off prey or give away one’s position at an undesired moment, etc.  Ultimately, I can’t think of any major survival problem that a dog might solve that would be worth the extra effort of keeping it.  Nevertheless, I believe they have a role to play, I just need to find out what that is.  </p></article>]]></description>
+            <link>http://www.intothewildkennels.com/de0afb25-3f2d-46a8-b97c-3fd0dd7a23cb/index.html</link>
             <guid isPermaLink="false">de0afb25-3f2d-46a8-b97c-3fd0dd7a23cb</guid>
-            <pubDate>Mon, 14 Mar 2016 03:42:11 GMT</pubDate>
+            <pubDate>Mon, 14 Mar 2016 03:45:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
