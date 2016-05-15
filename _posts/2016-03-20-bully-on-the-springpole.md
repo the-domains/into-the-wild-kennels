@@ -4,26 +4,25 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://www.youtube.com/watch?v=ZbUJtNglDiY'
 inLanguage: null
-starred: false
 keywords: []
 description: "This is my Patterdale Bully on the backyard springpole. He won't work it by himself, but if I'm with him he loves it."
-datePublished: '2016-03-20T03:15:08.378Z'
-dateModified: '2016-03-20T03:14:56.820Z'
+datePublished: '2016-05-15T22:50:39.875Z'
+dateModified: '2016-05-15T22:50:39.368Z'
 author:
   - name: IW Kennels
     url: 'https://www.youtube.com/channel/UChX0ZzibdGT0QNqJERTIN3w'
     avatar: {}
 related: []
 app_links: []
-title: Bully on the Springpole
+title: Patterdale on the Springpole
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://www.youtube.com/favicon.ico'
+starred: false
 sourcePath: _posts/2016-03-20-bully-on-the-springpole.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
